@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I'm documenting my journey to become a Machine Learning Engineer — one day, one commit, one post at a time.
+I'm documenting my journey to become a Machine Learning Engineer - one day, one commit, one post at a time.
 
 This space is where I share my daily learnings, code snippets, projects, and reflections as I build my skills in ML, AI, and everything around them.
 
@@ -13,7 +13,7 @@ This space is where I share my daily learnings, code snippets, projects, and ref
 - To stay consistent and accountable in my learning.
 - To create a visible track record for future opportunities.
 - To connect with other curious learners and engineers.
-- To leave behind proof of work — not just certificates.
+- To leave behind proof of work - not just certificates.
 
 ---
 
