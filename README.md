@@ -33,7 +33,7 @@ Then moving into:
 
 ### 🛠️ Repositories
 
-- [`ml-by-me`](https://github.com/mlbyme/ml-by-me) – My main repo: daily logs, notes, code snippets, and learning experiments
+- [`ml-by-me`](https://github.com/mlbyme/mlbyme) – My main repo: daily logs, notes, code snippets, and learning experiments
 - More projects coming as I progress 💡
 
 ---
